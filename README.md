@@ -1,4 +1,4 @@
-# Multi-objective TSP with Profits and Passengers (MO-TSPPP)  
+# Mixed-integer linear programming model and algorithms for the multi-objective traveling salesman problem with profits and passengers 
 **Exact, Heuristic, and Evolutionary Approaches**  
 
 This repository contains the implementation, benchmark instances, and experimental data for the paper:  
